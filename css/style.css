@@ -20,12 +20,16 @@ h3 {
   margin: 20px;
 }
 
+#background {
+  text-align: center;
+}
+
 #background img {
-  width: 100vw;
+  width: 50vw;
 }
 
 .brank { 
-  height:200px;
+  height:100px;
 }
 
 /* pagetop */
