@@ -1,0 +1,38 @@
+h3 {
+  font-size: 24px;
+}
+
+#header {
+  text-align: center;
+  margin: auto;
+}
+
+#header img {
+  width: 75vw;
+}
+
+#counter {
+  text-align: center;
+  margin:30px;
+}
+
+#news {
+  margin: 20px;
+}
+
+#background img {
+  width: 100vw;
+}
+
+.brank { 
+  height:200px;
+}
+
+/* pagetop */
+#pagetop{
+  position:fixed;
+  right:10px;
+  bottom:0px;
+  cursor:pointer;
+}
+
